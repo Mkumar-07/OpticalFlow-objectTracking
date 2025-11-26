@@ -17,7 +17,3 @@ A computer vision project that demonstrates object tracking using Optical Flow t
 - **OpenCV**
 - **NumPy**
 - **Lucas–Kanade Optical Flow Algorithm**
-
----
-
-## 📂 Project Structure
